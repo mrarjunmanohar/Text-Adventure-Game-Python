@@ -12,3 +12,6 @@ In this game you start within Douglas's/Karl's dream and, you are the protagonis
 You win, when you escape from your captors and exit the dream.
 
 Happy playing!
+
+
+The following project was conducted as part of my Python Course at Hult International Business whilst studying my masters in Business Analytics

@@ -2,7 +2,7 @@
 How to build a basic text adventure game in Python using UDFs and loops only. 
 
 
-About the game:
+<h4>About the game:</h4>
 One Way Out is a self-written fictional story. It's what happens when you take one famous movie; Total Recall, and an equally famous (debatable) hit sitcom; Castle, and combine them. 
 
 You are either Douglas Quaid or Karl Hauser. One is an average Joe and the other is a special forces veteran. For anyone unfamiliar with the movie, Total Recall is set in the future and Rekall is a company that implants artificial memories for those looking to escape the mundane responsibilities of their life. 
